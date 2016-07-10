@@ -1,0 +1,2 @@
+Index:
+1. This is for android framework to allocated to "Large size" device in terms of screen size.
